@@ -5,7 +5,7 @@
 
 ## Descrição.
 
-<p>APP desenvolvido em flutter (dart) para controlar o fluxo de pessoa em um estabelecimento.</p>
+<p>APP desenvolvido em flutter (dart) para controlar o fluxo de pessoa em um estabelecimento, tendo em vista o cenario da pandemia. Projeto bem simples, porem muito útil.</p>
 
 ## Tecnologias.
 #### Linguagem : dart.
@@ -17,7 +17,7 @@
 
 ## Ilustração
 
-![Gif de apresentação do projéto]()
+![Gif de apresentação do projéto](https://github.com/AndreFSRamos/GifCards/blob/main/ContadorPessoas.gif)
 
 ## Autor
 
